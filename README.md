@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm a Meme Lord hh
 -->
-![https://media.giphy.com/media/WUXLmewlvtuPBNQYao/giphy.gif]()
 <img src = "https://media.giphy.com/media/WUXLmewlvtuPBNQYao/giphy.gif">
