@@ -7,6 +7,7 @@
 - :purple_heart: I’m currently learning  **Cyber Security** & **Web Development**
 - :blue_heart: I'm @ **Full Stack Developer & Bug Hunter**
 - 📫 How to reach me: email me Micro0x00@protonmail.com
+- fb: https://www.facebook.com/Micro0x00/
 - ⚡ Fun fact : I'm a Meme Lord 
 
 - 🎆 Hobbies : **Play ctf** is  my favourite hobbi
